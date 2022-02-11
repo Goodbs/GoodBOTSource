@@ -6,7 +6,7 @@ Good Bot açık kaynağı kullanarak ilk başta verilen
 5 komutada sahip olabilirsiniz.Bu komutların sayısı her
 sürümde arttırılıcaktır.
 
-https://cdn.discordapp.com/emojis/933042822716731485.gif?size=96&quality=lossless İyi Botlar
+[GoodBOTEmoji2](https://cdn.discordapp.com/emojis/933042822716731485.gif?size=96&quality=lossless) İyi Botlar
 
 
 © Good BOT Hakları saklıdır.
