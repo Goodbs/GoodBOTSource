@@ -23,5 +23,7 @@ This not full version, this beta version
 enter commanda istediğinizi yazın.
 
 **Yaptıktan sonra aoi.js paketini, express paketini indirin.**
+
 (Sağ üst kutu iconu)
+
 Geri kalanı olarak TUTORIAL dosyasını okuyun
